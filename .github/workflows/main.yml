@@ -3,8 +3,7 @@ name: Selenium Automation Runner
 on:
   workflow_dispatch:   # Manual trigger
   schedule:            # Auto trigger every 30 minutes
-    - cron: '*/30 * * * *'
-
+    - cron: '15,45 * * * *'
 jobs:
   selenium-parallel:
     runs-on: windows-latest
