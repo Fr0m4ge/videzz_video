@@ -40,14 +40,14 @@ def random_mouse_move(driver):
         time.sleep(1)
 
 link_list = [
-    "https://vidoza.net/8193axbknvto.html",
-    "https://vidoza.net/49zpjy1rsjo1.html",
-    "https://vidoza.net/qaa0w816elml.html",
-    "https://vidoza.net/74eb28jag82j.html",
-    "https://vidoza.net/6ed6ivawned3.html",
-    "https://vidoza.net/dr7txnc1np5u.html",
-    "https://vidoza.net/v4hvfnl6l1zs.html",
-    "https://vidoza.net/vddxot92drvn.html"
+    "https://vidoza.net/wrydoiavxwah.html",
+    "https://vidoza.net/4e092waby72t.html",
+    "https://vidoza.net/x1glh2z2ccv3.html",
+    "https://vidoza.net/jaujsy44dsfs.html",
+    "https://vidoza.net/kbmt8ko3sqry.html",
+    "https://vidoza.net/wz7y61mvyxgg.html",
+    "https://vidoza.net/ympwmf1bf7ya.html",
+    "https://vidoza.net/6xn620zitjmg.html"
 ]
 
 selected_links = random.sample(link_list, 2)
